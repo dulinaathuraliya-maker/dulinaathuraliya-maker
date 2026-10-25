@@ -22,10 +22,10 @@ Currently, I am building out implementations of sorting algorithms in C++.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulinethandya-maker&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulinethandya-maker&theme=tokyonight&hide_border=true&title_color=00FF00" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulinathuraliya-maker&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF00" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulinathuraliya-maker&theme=tokyonight&hide_border=true&title_color=00FF00" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulinethandya-maker&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF00" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulinathuraliya-maker&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF00" alt="Top Languages" />
 </p>
