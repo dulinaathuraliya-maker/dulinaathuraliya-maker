@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I am a passionate developer currently focused on m
 
 ## 📫 How to reach me
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Email:** [dulinaathuraliya@gmail.com]
+- 
