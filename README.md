@@ -1,4 +1,4 @@
-# Hi there, I'm Dulin! 👋
+# Hi there, I'm Dulina! 👋
 
 Welcome to my GitHub profile! I am a passionate developer currently focused on mastering core computer science concepts, algorithms, and low-level programming.
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a passionate developer currently focused on m
 
 ## 📈 GitHub Stats
 
-![Dulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulinethandya-maker&show_icons=true&theme=transparent)
+![Dulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulinaathuraliya-maker&show_icons=true&theme=transparent)
 
 ## 📫 How to reach me
 
