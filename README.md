@@ -6,12 +6,12 @@
   <br><br>
 
   <!-- 2. Your Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulinathuraliya-maker&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF00" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulinaathuraliya-maker&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF00" alt="Top Languages" />
 
   <br><br>
 
   <!-- 3. Dynamic GitHub Trophies (These unlock automatically based on your commits/stars) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=dulinathuraliya-maker&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dulinaathuraliya-maker&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 
   <br><br>
 
