@@ -16,11 +16,6 @@ Welcome to my GitHub profile! I am a passionate developer currently focused on m
 * **Tools & OS:** Linux (Ubuntu/WSL), Git, GitHub, VS Code
 * **Interests:** Embedded Systems, Algorithm Design, Theoretical CS
 
-## 📂 What I'm Working On
-
-- **[Sorting Algorithms by C++](https://github.com/dulinaathuraliya-maker/sorting-algorithms-by-C-)**: Implementing and analyzing time complexity for algorithms like Exchange Sort and Selection Sort.
-- **Python Course Work**: Iteratively refining string manipulation and sorting logic.
-
 ## 📈 GitHub Stats
 
 ![Dulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dulinaathuraliya-maker&show_icons=true&theme=transparent)
