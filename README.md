@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a passionate developer currently focused on m
 
 ## 📂 What I'm Working On
 
-- **[Sorting Algorithms by C++](https://github.com/dulinethandya-maker/sorting-algorithms-by-C-)**: Implementing and analyzing time complexity for algorithms like Exchange Sort and Selection Sort.
+- **[Sorting Algorithms by C++](https://github.com/dulinaathuraliya-maker/sorting-algorithms-by-C-)**: Implementing and analyzing time complexity for algorithms like Exchange Sort and Selection Sort.
 - **Python Course Work**: Iteratively refining string manipulation and sorting logic.
 
 ## 📈 GitHub Stats
